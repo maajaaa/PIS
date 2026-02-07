@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
+  <diagram name="Page-1" id="UYu3CNtFJujuqxEf8dzD">
+    <mxGraphModel dx="1892" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-6" edge="1" parent="1" source="yYUSf5ppnDYrXLUe_hpl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yYUSf5ppnDYrXLUe_hpl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-7" edge="1" parent="1" source="yYUSf5ppnDYrXLUe_hpl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yYUSf5ppnDYrXLUe_hpl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P0&lt;/div&gt;&lt;div&gt;Informacijski sustav&lt;/div&gt;&lt;div&gt;Doma zdravlja&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-22" edge="1" parent="1" source="yYUSf5ppnDYrXLUe_hpl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="yYUSf5ppnDYrXLUe_hpl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P1&lt;/div&gt;&lt;div&gt;Pacijent&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-23" edge="1" parent="1" source="yYUSf5ppnDYrXLUe_hpl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yYUSf5ppnDYrXLUe_hpl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P2&lt;/div&gt;&lt;div&gt;Liječnik&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-24" edge="1" parent="1" source="yYUSf5ppnDYrXLUe_hpl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yYUSf5ppnDYrXLUe_hpl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P3&lt;/div&gt;&lt;div&gt;Administracija&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-25" edge="1" parent="1" source="yYUSf5ppnDYrXLUe_hpl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yYUSf5ppnDYrXLUe_hpl-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P4&lt;/div&gt;&lt;div&gt;Uprava&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Registracija" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Ažuriranje kontaktnih&lt;/div&gt;&lt;div&gt;podataka&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Pregled zakazanih&lt;/div&gt;&lt;div&gt;termina&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Pregled medicinske&lt;/div&gt;&lt;div&gt;dokumentacije&lt;/div&gt;&lt;div&gt;pacijenata&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Unos nalaza i&amp;nbsp;&lt;/div&gt;&lt;div&gt;dijagnoza&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Izdavanje recepata i&amp;nbsp;&lt;/div&gt;&lt;div&gt;uputnica&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Evidencija i brisanje&amp;nbsp;&lt;/div&gt;&lt;div&gt;pacijenata&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Upravljanje&amp;nbsp;&lt;/div&gt;&lt;div&gt;zakazivanjem termina&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Slanje notifikacija&amp;nbsp;&lt;/div&gt;&lt;div&gt;pacijentima&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Izrada rasporeda rada&lt;/div&gt;&lt;div&gt;liječnika&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Ažuriranje mjesečnih/&lt;/div&gt;&lt;div&gt;tjednih rasporeda&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Uvid u dostupnost&amp;nbsp;&lt;/div&gt;&lt;div&gt;kadra i zauzetost&amp;nbsp;&lt;/div&gt;&lt;div&gt;ordinacija&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Evidencija zamjena i&amp;nbsp;&lt;/div&gt;&lt;div&gt;odsutnost liječnika&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Upravljanje&amp;nbsp;&lt;/div&gt;&lt;div&gt;obavijestima i&amp;nbsp;&lt;/div&gt;&lt;div&gt;bilješkama za osoblje&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="210" as="sourcePoint" />
+            <mxPoint x="420" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="210" as="sourcePoint" />
+            <mxPoint x="420" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="210" as="sourcePoint" />
+            <mxPoint x="510" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yYUSf5ppnDYrXLUe_hpl-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="210" as="sourcePoint" />
+            <mxPoint x="380" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYUSf5ppnDYrXLUe_hpl-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yYUSf5ppnDYrXLUe_hpl-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="210" as="sourcePoint" />
+            <mxPoint x="560" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
