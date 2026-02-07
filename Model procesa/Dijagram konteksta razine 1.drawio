@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
+  <diagram name="Page-1" id="tCdcecxxfTGweKnoNznz">
+    <mxGraphModel dx="1640" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Administracija" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uprava" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Liječnik" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pacijent" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P4 Administracija&lt;/div&gt;&lt;div&gt;sustava&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P3 Medicinska&lt;/div&gt;&lt;div&gt;dokumentacija&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="P2 Upravljanje terminima" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;P1 Upravljanje&amp;nbsp;&lt;/div&gt;&lt;div&gt;pacijentima&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-9" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;Baza&amp;nbsp;&lt;/div&gt;&lt;div&gt;podataka&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="354" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.592;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" target="_wtyZ-gK30Z_oPe7r1wT-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="150" as="sourcePoint" />
+            <mxPoint x="172" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-12" connectable="0" parent="_wtyZ-gK30Z_oPe7r1wT-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Registracija/&lt;/div&gt;&lt;div&gt;ažuriranje podataka&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1801" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-15" edge="1" parent="1" source="_wtyZ-gK30Z_oPe7r1wT-4" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="_wtyZ-gK30Z_oPe7r1wT-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="160" as="sourcePoint" />
+            <mxPoint x="290" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-16" connectable="0" parent="_wtyZ-gK30Z_oPe7r1wT-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Zahtjev za termin" vertex="1">
+          <mxGeometry relative="1" x="0.1707" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="_wtyZ-gK30Z_oPe7r1wT-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="330" as="sourcePoint" />
+            <mxPoint x="390" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-20" connectable="0" parent="_wtyZ-gK30Z_oPe7r1wT-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Potvrda termina" vertex="1">
+          <mxGeometry relative="1" x="0.3463" y="3" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="_wtyZ-gK30Z_oPe7r1wT-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="130" as="sourcePoint" />
+            <mxPoint x="550" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-22" connectable="0" parent="_wtyZ-gK30Z_oPe7r1wT-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Unos nalaza,&lt;/div&gt;&lt;div&gt;dijagnoze&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.342" y="-2" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="_wtyZ-gK30Z_oPe7r1wT-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="620" y="600" as="sourcePoint" />
+            <mxPoint x="670" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-24" connectable="0" parent="_wtyZ-gK30Z_oPe7r1wT-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Raspored rada&lt;/div&gt;&lt;div&gt;liječnika&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.29" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" target="_wtyZ-gK30Z_oPe7r1wT-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="370" as="sourcePoint" />
+            <mxPoint x="660" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-27" connectable="0" parent="_wtyZ-gK30Z_oPe7r1wT-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Evidencija&lt;/div&gt;&lt;div&gt;osoblja&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.6555" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.433;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="_wtyZ-gK30Z_oPe7r1wT-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="370" as="sourcePoint" />
+            <mxPoint x="370" y="697" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-29" connectable="0" parent="_wtyZ-gK30Z_oPe7r1wT-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Pohrana&amp;nbsp;&lt;/div&gt;&lt;div&gt;medicinskih&amp;nbsp;&lt;/div&gt;&lt;div&gt;zapisa&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0271" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="_wtyZ-gK30Z_oPe7r1wT-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="570" as="sourcePoint" />
+            <mxPoint x="350" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wtyZ-gK30Z_oPe7r1wT-31" connectable="0" parent="_wtyZ-gK30Z_oPe7r1wT-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Zakazivanje&lt;/div&gt;&lt;div&gt;termina&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1711" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
